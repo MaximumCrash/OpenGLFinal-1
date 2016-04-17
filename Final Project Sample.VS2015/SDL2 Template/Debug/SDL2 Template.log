@@ -1,0 +1,28 @@
+﻿  Build.cpp
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec2.hpp(66): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec2.hpp(229): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec2.hpp(67): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec2.hpp(68): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec3.hpp(66): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec3.hpp(251): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec3.hpp(67): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec3.hpp(68): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec4.hpp(120): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec4.hpp(350): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec4.hpp(121): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\include\glm\detail\type_vec4.hpp(122): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\sdl2 template\object.hpp(69): warning C4100: 'other': unreferenced formal parameter
+c:\users\fryin\documents\github\openglfinal\final project sample.vs2015\sdl2 template\build.cpp(111): warning C4189: 'block': local variable is initialized but not referenced
+  SDL2 Template.vcxproj -> C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\Debug\SDL2 Template.exe
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\lib\x86\glew32.dll
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\lib\x86\SDL2.dll
+  2 File(s) copied
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\SDL2 Template\block.obj
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\SDL2 Template\cube.obj
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\SDL2 Template\octo.obj
+  3 File(s) copied
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\SDL2 Template\lichen.tga
+  C:\Users\fryin\Documents\GitHub\OpenGLFinal\Final Project Sample.VS2015\SDL2 Template\sandstone.tga
+  2 File(s) copied
+  File not found - *.glsl
+  0 File(s) copied
