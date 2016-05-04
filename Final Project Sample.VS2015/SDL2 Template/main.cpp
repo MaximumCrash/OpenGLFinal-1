@@ -92,7 +92,7 @@ Project::Project(unsigned int width, unsigned int height):
     running(true),
     plain(gl::Shader(GL_VERTEX_SHADER, shader::vFlat), gl::Shader(GL_FRAGMENT_SHADER, shader::fFlat), gl::Vertex::Array::Bindings())
 {
-    plain.Uniform<mat4>("camera") = glm::lookAt(vec3(0.0f, 2.0f, 4.0f), vec3(0.0f, 0.0f, 0.0f), vec3(0.0f, 1.0f, 0.0f));
+    plain.Uniform<mat4>("camera") = glm::lookAt(vec3(0.0f, 0.0f, 5.0f), vec3(0.0f, 0.0f, 0.0f), vec3(0.0f, 1.0f, 0.0f));
     plain.Uniform<mat4>("projection") = glm::frustum(-2.0f,  2.0f, -1.5f, 1.5f, 02.0f, -5.0f);
     plain.Uniform<mat4>("transform") = glm::mat4();
 }
